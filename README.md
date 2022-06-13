@@ -5,13 +5,8 @@
   A base de dados foi retirada do site central de dados ("http://centraldedados.pt/incendios/"), onde reuniu e disponibilizou os dados sobre o assunto, e retirou os respectivos dados do ICFN - Instituto da conversão da natureza e florestas.
 
 # Estrutura
-(estruturas utilizadas)
+  O repositório está organizado da seguinte forma:
+    incendios2000.csv: pasta de arquivo que contem os dados usados nas tabelas do código.
 
 # API`s usados
-(notas tecnicas)
-
-# Dicionários de Dados
-(tipos de dados usaqdos)
-
-# Outras Informações
-(informações faltantes)
+  pandas.DataFrame.sort_values
