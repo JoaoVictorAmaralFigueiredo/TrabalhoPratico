@@ -6,7 +6,8 @@
 
 # Estrutura
   O repositório está organizado da seguinte forma:
-    incendios2000.csv: pasta de arquivo que contem os dados usados nas tabelas do código.
+  
+    Incendios2000.csv: pasta de arquivo que contem os dados usados nas tabelas do código.
 
 # API`s usados
   pandas.DataFrame.sort_values
