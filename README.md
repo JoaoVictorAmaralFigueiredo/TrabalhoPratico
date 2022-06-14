@@ -11,3 +11,5 @@
 
 # API`s usados
   pandas.DataFrame.sort_values
+  pandas.DataFrame.groupby
+  pandas.DataFrame.plot
